@@ -1,0 +1,637 @@
+---
+title: "Approcci multidisciplinari per un'analisi dei sistemi insediativi e dei trend demografici nel lungo termine"
+subtitle: "Il caso studio del Levante Meridionale nell'Età del Ferro"
+authors:
+  - name: "Andrea Titolo"
+    url: "https://andreatitolo.com"
+    orcid: "0000-0002-7322-8634"
+    affiliation:
+      - University of Turin
+  - name: "Alessio Palmisano"
+    url: "https://www.dipstudistorici.unito.it/do/docenti.pl/Show?_id=apalmisa"
+    orcid: "0000-0003-0758-5032"
+    affiliation:
+      - University of Turin
+title-slide-attributes: 
+  data-background-image: img/background_logo.webp
+format: 
+  revealjs:
+      slide-number: true
+      progress: false
+      preview-links: true
+      theme: [default, scss/style.scss]
+      width: 1600
+      height: 900
+      transition: fade
+      citeproc: true
+      citations-hover: true
+      bibliography: bib/references.bib
+      csl: bib/journal-of-archaeological-research.csl
+      link-external-icon: false
+      link-external-newwindow: true
+      embed-resources: false
+      multiplex: false
+      pdf-separate-fragments: true
+      cap-location: bottom
+---
+
+# Introduzione
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Introduzione al progetto
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="45%"}
+-   [**Politiche di governance e paesaggi politici nel Levante meridionale durante l'Impero neo-assiro**](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=0sk8)
+-   2 anni
+-   Finanziato dalla Fondazione Gerda Henkel
+-   Dipartimenti di Studi Storici (Unito)
+:::
+
+::: {.column width="55%"}
+![](img/study_area.webp){fig-align="center"}
+:::
+:::
+
+![](img/gerda-henkel-logo.webp){.absolute right="0%" top="77%" width="50%"}
+
+------------------------------------------------------------------------
+
+## Il Levante Meridionale nell'età del Ferro
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+-   Regni regionali: Israele, Giuda, Ammon, Moab, Edom, Filistia, città-stato Fenice
+-   Conquista assira (732-720 BC)
+-   Nuova situazione politica (province e stati cliente)
+-   Ruolo dell'impero nella trasformazione dei sistemi insediativi e popolazione della regione?
+:::
+
+::: {.column width="50%"}
+![](img/study_area.webp){width="110%"}
+:::
+:::
+
+---
+
+## Obiettivi di ricerca
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="50%" .body-small}
+-   Analizzare i modelli di popolazione e di insediamento nella regione del Levante meridionale per investigare le strategie imperiali assire
+    -   Samaria e Giuda (spesso contrapposte come esempi del ruolo distruttivo dell'impero assiro)
+-   Approccio olistico che integra i dati archeologici, testuali e geografici in un quadro spaziale
+    -   Analisi a lungo termine: Calcolitico (4500 a.C.) - Bizantino (638 d.C.)
+
+::: {.fragment fragment-index=1}
+-   In questa sede: analisi e presentazione dei trend demografici
+:::
+:::
+
+::: {.column width="50%"}
+![](img/study_area_selected.webp){fig-align="center"}
+:::
+:::
+
+
+# Metodologia
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Approcci statistici e probabilistici per l'analisi dei trend demografici regionali
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+Le stime di popolazione si basano su un assunto:
+
+-   Una densità di materiale archeologico osservabile nel tempo e in un'area studio è (in qualche modo) direttamente proporzionale alla popolazione
+-   Più grande la popolazione, maggiore sarà il record archeologico
+:::
+
+::: {.column width="50%"}
+::: {.fragment fragment-index="1"}
+Data la natura del record archeologico:
+
+-   approccio multi-proxy e conscio dell'incertezza temporale, qualitativa e quantitativa
+-   Prospettiva a lungo termine
+
+:::
+
+::: {.fragment fragment-index=2}
+-   **Fluttuazioni e non numeri assoluti**
+:::
+
+:::
+:::
+
+## Radiocarbonio
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column .body-small width="50%"}
+**Summed Probability Distribution** (SPD) [@Crema2022]
+
+1.  Ogni data al radiocarbonio viene calibrata e trasformata in una distribuzione probabilistica
+2.  Binning per mitigare eterogeneità spaziale e temporale [@Timpson.etal2014]
+3.  La distribuzione probabilistica per ogni campione viene sommata
+
+
+:::
+
+::: {.column .body-small width="50%"}
+![Esempio di SPD [da @Palmisano.etal2017]](img/radiocarbon_spd_palmisanoetal2017.webp){style="font-size: 0.9em; text-align: center" fig-align="center" width="80%"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Dati archeologici - Approcci aoristici
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+-   Approcci aoristici [@Crema.etal2010; @Crema2012; @Kolar.etal2016]
+-   Incorporare l'incertezza del dato archeologico tramite metodologie quantitative
+-   La probabilità totale di un evento archeologico (fase di occupazione del sito) in un determinato arco di tempo è 1 (certezza assoluta che il sito sia stato in uso in quell'arco di tempo)
+:::
+
+::: {.column width="50%"}
+
+![](img/aoristic_sum_weight_palmisanoetal2017.webp)
+
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Monte Carlo Simulation
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="45%"}
+
+-   **Siti**: bilanciare l'ampio range cronologico e la probabile minore durata dell'occupazione di un sito
+-   **Radiocarbonio**: valutare la significatività statistica delle deviazioni da un modello di crescita generato casualmente
+
+:::
+
+::: {.column width="55%"}
+![Esempio di simulazione Monte Carlo per la creazione di date di inizio occupazione e durata casuali [da @Palmisano2023]](img/monte_carlo_sites_palmisano2023.webp){style="font-size: 0.9em; text-align: center" fig-align="center"}
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+## Raccolta dati
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="40%" .body-small}
+-   The Archaeological Survey of Israel [e.g. @Kloner2000]
+-   Samaria Survey [@Finkelstein.etal1997]
+-   Manasseh Hill Surveys [@Zertal2004; @Zertal2007; @Zertal.Mirkam2016; @Zertal.Bar2017; @Zertal.Bar2019; @Bar.Zertal2021; @Bar.Zertal2022]
+-   [NERD](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.90) Database [@Palmisano.etal2022]
+:::
+
+::: {.fragment fragment-index="2"}
+-   **4194** Siti raccolti
+-   **11331** Fasi di occupazione
+-   **1223** Date al radiocarbonio
+:::
+
+::: {.column width="55%"}
+:::
+:::
+
+![](img/settlement_rc_distribution.webp){.absolute right="-2%" top="20%" width="60%"}
+
+------------------------------------------------------------------------
+
+## Elaborazione dei dati
+
+-   Database geospaziale in QGIS, R scripts
+-   Armonizzazione cronologica e selezione esclusivamente di evidenze di occupazione antica (insediamenti)
+
+![Interfaccia QGIS con esempio di site-phases](img/qgis_interface.webp){style="font-size: 0.9em; text-align: center"}
+
+# Risultati preliminari
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Summed Probability Distribution
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="45%"}
+::: {.fragment fragment-index=1 .fade-in-then-semi-out}
+-   Aggregate date in *bins* di 100 anni
+-   1223 data aggregate in 388 *bins*
+-   Confrontate con un modello di crescita esponenziale (1000 simulazioni)
+-   Asse Y - Densità di date
+:::
+
+::: {.fragment fragment-index="2"}
+-   *Booms and Busts* in EBA
+-   Declini popolazione in MBA/LBA (non statisticamente significativo)
+-   Aumento significativo in transizione LBA/IA e IA I/II
+-   Declino graduale (post 2500 BP - artificiale)
+:::
+:::
+
+::: {.column width="55%"}
+::: {.fragment fragment-index=1 .fade-in-then-out}
+![](img/spd_all_region.webp)
+:::
+:::
+:::
+
+::: {.fragment fragment-index="2"}
+![](img/spd_all_region7-2k.webp){.absolute right="0%" top="10%" width="55%"}
+:::
+
+------------------------------------------------------------------------
+
+## Confronto Regionale tra Samaria e Giuda
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column .body-small width="45%"}
+-   _Permutation Test_, in che grado le curve regionali si discostano da quella generale
+-   Analizzare le divergenze regionali nelle fluttuazioni demografiche [@Crema.etal2016]
+
+::: {.fragment .fade-in-then-semi-out fragment-index="1"}
+Deviazioni positive (statisticamente significative)
+
+-   Judah: 3463\~3446 BP / 3245\~3189 BP
+-   Samaria: 7253\~7143 BP / 7113\~7035 BP
+:::
+
+::: {.fragment fragment-index="2"}
+-   In generale, la curva non diverge significativamente, soprattutto nel periodo di interesse (IA)
+-   Differenze più marcate (ma non statisticamente significative) in EBA-MBA
+:::
+:::
+
+::: {.column width="55%"}
+![](/img/permutation_plot.webp)
+:::
+:::
+
+::: {.fragment fragment-index="2"}
+![](img/permutation_plot7-2k.webp){.absolute right="-5%" top="10%" width="60%"}
+:::
+
+------------------------------------------------------------------------
+
+## Proxy archeo-demografici
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+- Calcolo _aoristic weight_
+- 1000 simulazioni (Monte Carlo) per ottenere curva randomizzata
+-   Time block **100 anni**, **4194** siti, **11331** site phases
+-   Normalizzazione e rappresentazione grafica dei differenti proxy utilizzati
+-   Ispezione singole regioni per evidenziare differenze locali
+
+:::
+
+::: {.column width="50%"}
+:::
+:::
+
+![](img/archaeodemographic_proxies.webp){.absolute right="3%" top="7%" width="40%"}
+
+------------------------------------------------------------------------
+
+## Proxy archeo-demografici - Intera area
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+-   Aumento popolazione in EBA, con graduale declino nel passaggio al MBA
+-   Un secondo picco nel MBA II-III
+-   Aumento significativo nell'età del Ferro I-II e declino graduale in periodo Persiano
+
+![](img/archaeodemographic_proxies_all.webp){fig-align="center"}
+
+------------------------------------------------------------------------
+
+## Proxy archeo-demografici - Confronti regionali
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+::: {.fragment fragment-index=1}
+-   Giuda: crescita graduale fino all'IBA e fluttuazioni minori nel MBA II-III
+    -   La crescita nell'età del Ferro appare leggermente più tardi che in Samaria
+:::
+::: {.fragment fragment-index=2}
+-   Samaria: picchi maggiori, crescita in periodo persiano
+    -   Area cumulativa tendenzialmente maggiore 
+:::
+
+::: {.fragment fragment-index=3}
+-   Meno siti archeologici disponibili per Giuda
+:::
+
+:::
+
+::: {.column width="50%"}
+:::
+:::
+
+![](img/archaeodemographic_proxies_sam_jud.webp){.absolute right="0%" top="15%" width="50%"}
+
+------------------------------------------------------------------------
+
+## Proxy archeo-demografici
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+-   Curve SPD e proxy archeologici meno correlati 
+-   Periodizzazioni archeologiche basate sulla cultura materiale
+-   Più analisi necessarie
+
+|        | count | area | aorist | random | spd  |
+|--------|-------|------|--------|--------|------|
+| count  | 1     | 0.95 | 0.95   | 0.93   | 0.37 |
+| area   | 0.95  | 1    | 0.85   | 0.85   | 0.31 |
+| aorist | 0.95  | 0.85 | 1      | 0.96   | 0.36 |
+| random | 0.93  | 0.85 | 0.96   | 1      | 0.30 |
+| spd    | 0.37  | 0.31 | 0.36   | 0.30   | 1    |
+
+: Spearman's correlation of archeo-demographic proxies {.body-smaller}
+
+:::
+
+::: {.column width="50%"}
+:::
+:::
+
+![](img/archaeodemographic_proxies.webp){.absolute right="3%" top="4%" width="42%"}
+
+------------------------------------------------------------------------
+
+## Proxy archeo-demografici - Discussione
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+Trend assimilabili a pattern sovra-regionali [@Palmisano.etal2019; @Palmisano.etal2021]
+
+-   Aumento numero e dimensione insediamenti tra Calcolitico ed EBA I-II
+-   Diminuzione e stagnazione in IBA, LBA
+-   Crescita in IA I-II
+-   Declino in periodo Babilonese, e ripresa tra Persiano ed Ellenistico
+
+![](img/curve_levant_palmisanoetal2021.webp){width="90%" fig-align="left"}
+
+::: {.absolute right="12%" top="80%" .smallish}
+Curva demografica multi-proxy  
+per il Levante Meridionale  
+[da @Palmisano.etal2021]
+:::
+
+------------------------------------------------------------------------
+
+## Proxy archeo-demografici - Età del Ferro
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column .body-small width="50%"}
+ - Età del Ferro II
+   - Samaria: Ristrutturazione del sistema insediativo a Samaria [@Squitieri2024], picco dopo un periodo di crescita
+   - Giuda: estensione sistema insediativo, urbanizzazione e centralizzazione in un periodo più tardo [@Bienkowski2022]
+
+::: {.fragment fragment-index=1}
+ - Trend che sembra confermato dai proxy archeo-demografici
+ - Curve e fluttuazioni demografiche molto simili
+ - Se profonda differenza insediativa, le due curve sarebbero state opposte, o quantomeno differenti.
+:::
+
+:::
+
+::: {.column width="50%"}
+![](img/assyrian_control_squitieri2024.webp){fig-align="right" width="70%"}
+:::
+:::
+
+::: {.fragment fragment-index=1}
+![](img/archaeodemographic_proxies.webp){.absolute right="3%" top="7%" width="45%"}
+:::
+
+------------------------------------------------------------------------
+
+## Proxy archeo-demografici - Discussione
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column .body-small width="60%"}
+-   Sebbene traiettorie simili, non necessariamente cause simili
+    -   Le dinamiche regionali devono essere accuratamente valutate (fenomeni complessi e sfumati)
+    -   Ruralizzazione tipica dell'età del Ferro [@Squitieri2024; @Wilkinson2003]
+        -   Non sempre a detrimento dell'intero sistema insediativo pre-esistente [@Bienkowski2022; @Mashiach.Davidovich2023; @Porter.etal2014; @Routledge2004]
+
+![Pattern nucleati e dispersi nel Nord della Jazira da [@Wilkinson.etal2004]](img/nucleated_vs_dispersal_beydar_wilkinsonetal2004.webp){style="font-size: 0.9em; text-align: center; width: 50%" fig-align="right"}
+
+:::
+
+::: {.column width="40%"}
+![Pattern nucleati e dispersi nel Nord della Jazira da [@Wilkinson.etal2004]](img/nucleated_vs_dispersal_wilkinsonetal2004.webp){style="font-size: 0.9em; text-align: center" fig-align="center"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Proxy archeo-demografici - Discussione {visibility="hidden"}
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column .body-small width="50%"}
+-   Ruolo del clima deve essere tenuto presente (es. _3.2k event_)
+-   Sebbene sia stata ipotizzata una maggiore della popolazione ai cambiamenti climatici sia maggiore nei periodi più recenti [@Palmisano.etal2019; @Palmisano.etal2021]
+:::
+
+::: {.column width="50%"}
+![SPD e record paleoclimatici per il Levante Meridionale [da @Palmisano.etal2021]](img/paleoclim_demographic_palmisanoetal2021.webp){style="font-size: 0.9em; text-align: center" fig-align="center"}
+:::
+:::
+
+# Conclusioni
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+[1 2 3]{style="opacity:0.25"} 4
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Conclusioni
+
+-   Approcci multi-proxy possono fornire interessanti spunti di confronto e di interpretazione
+-   L'estensione dei siti fornisce risultati comparabili a proxy usati in precedenza
+-   I risultati ottenuti mostrano come le due regioni si conformano a quanto noto per il più ampio Levante Meridionale e Asia Sud-Occidentale, con variazioni regionali
+-   Giuda e Samaria non mostrano sensibili differenze nell'età del Ferro a livello di insediamenti ed SPD [contra @Faust2021]
+
+<!-- ::: {.fragment fragment-index=1}
+-   Nonostante la diversa situazione politica, i trend demografici non supportano una visione binaria opposta delle due regioni, che devono essere analizzate e valorizzate per le differenze che esibiscono, ma anche inserite in un quadro più ampio
+::: -->
+
+------------------------------------------------------------------------
+
+## Conclusioni - prossimi step
+
+::: {.columns}
+
+::: {.column width="50%"}
+-   Maggiore ispezione delle curve al radiocarbonio
+-   Integrazione di dati storici e testuali [@Novotny.Radner2018]
+-   Analisi olistica del paesaggio politico
+-   Pubblicazione del dataset e delle analisi nelle rispettive repository online
+:::
+
+::: {.column width="50%"}
+![](img/data_management.webp){fig-align=center width="80%"}
+:::
+
+:::
+
+
+
+
+# Grazie dell'attenzione! {background-image="img/background.webp" background-opacity="15%" style="text-align:center"}
+
+<br>
+
+Andrea Titolo ([andrea.titolo@unito.it](mailto:andrea.titolo@unito.it)) - {{< ai orcid >}} [0000-0002-7322-8634](https://orcid.org/0000-0002-7322-8634)
+
+Alessio Palmisano ([alessio.palmisano@unito.it](mailto:alessio.palmisano@unito.it)) - {{< ai orcid >}} 
+[0000-0003-0758-5032](https://orcid.org/0000-0003-0758-5032)
+
+<br>
+
+
+![](img/qr_code.webp)
+<br>
+[Presentazione online al link](https://www.andreatitolo.com/slides/2023-12-13-archeofoss/archeofoss2023#/title-slide)
+
+<br>
+
+ {{< ai zenodo >}} < https://zenodo.org/doi/10.5281/zenodo.10370486  >
+
+ {{< bi github >}} [Slides Source Code](https://github.com/UnitoAssyrianGovernance/ArcheoFOSS2023) - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+# Bibliografia

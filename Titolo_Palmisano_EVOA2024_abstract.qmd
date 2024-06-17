@@ -1,0 +1,40 @@
+---
+title: "Approcci multidisciplinari per un'analisi dei sistemi insediativi e dei trend demografici nel lungo termine"
+subtitle: "Il caso studio del Levante Meridionale nell'Età del Ferro"
+
+authors:
+  - name: Andrea Titolo
+    affiliations:
+      - ref: unito
+    email: andrea.titolo@unito.it
+  - name: Alessio Palmisano
+    affiliations:
+      - ref: unito
+    email: alessio.palmisano@unito.it
+
+affiliations:
+  - id: unito
+    name: Dipartimento di Studi Storici, Università di Torino, Torino, Italia.
+
+filters:
+  - authors-block
+
+format:
+  docx:
+    reference-doc: /Users/andreatitolo/pandoc/template.docx
+    fig-align: center
+    number-sections: false
+    bibliography: /Users/andreatitolo/gitCodeberg/JabrefBib/references_noab.bib
+    csl: /Users/andreatitolo/gitThirdParties/CitationStyles/journal-of-archaeological-research.csl
+    citeproc: true
+    link-citations: true
+    link-bibliography: true
+    notes-after-punctuation: true
+    lang: it-IT
+---
+
+Il ruolo ricoperto dall'Impero Assiro nei circa 100 anni (ca. 8°-7° sec. a. C.) di controllo diretto o indiretto sulle regioni e sulle entità politiche del Levante Meridionale è ancora oggi fonte di numerose discussioni. Ai due estremi si trovano interpretazioni secondo cui, da un lato, le aree assoggettate all'Impero abbiano prosperato grazie alla stabilità offerta dalla cosiddetta _Pax Assyriaca_ e, dall'altro, chi sostiene che invece le aree sotto controllo imperiale siano state ridotte a zone sottosviluppate circondate da prosperanti entità politiche autonome. Tuttavia, sono ormai numerose le testimonianze di come l'Impero Assiro non abbia mai adottato un approccio monolitico alla gestione del territorio, ma che abbia piuttosto impiegato strategie diverse da regione a regione e a seconda del territorio e delle entità socio-politiche presenti. Queste strategie imperiali sono state ben evidenziate tramite studi regionali e sovra-regionali di archeologia del paesaggio, che tuttavia sono limitati alle regioni facenti parte del cuore dell'Impero o alle sue frontiere nord e nord-occidentali. 
+
+Ad oggi, manca quindi uno studio di questo tipo per il Levante Meridionale, che adotti un moderno approccio multidisciplinare e multiscalare, analizzando sistematicamente i sistemi insediativi e le dinamiche socio-ecologiche nel lungo termine. La regione offre infatti un ottimo caso studio per investigare le strategie di gestione del territorio e le risposte degli elementi locali, non solo a causa della presenza di diverse entità politiche contemporanee, ma soprattutto grazie alla quantità e qualità di dati storici ed archeologici a disposizione.
+
+In questo intervento si presenterà il progetto "Governance Policies and Political Landscapes in the Southern Levant under the Neo-Assyrian Empire", di base all'Università di Torino e finanziato dalla Fondazione Gerda Henkel. Si introdurranno gli obiettivi del progetto, la metodologia in uso e si presenteranno le analisi preliminari che si stanno portando avanti, discutendo quindi di come si possa offrire una visione più accurata dei cambiamenti nel paesaggio politico del Levante Meridionale nel lungo termine e in particolare nell'Età del Ferro.
