@@ -6,12 +6,12 @@ authors:
     url: "https://andreatitolo.com"
     orcid: "0000-0002-7322-8634"
     affiliation:
-      - University of Turin
+      - Università di Torino
   - name: "Alessio Palmisano"
     url: "https://www.dipstudistorici.unito.it/do/docenti.pl/Show?_id=apalmisa"
     orcid: "0000-0003-0758-5032"
     affiliation:
-      - University of Turin
+      - Università di Torino
 title-slide-attributes: 
   data-background-image: img/background_logo.webp
 format: 
@@ -164,8 +164,8 @@ Data la natura del record archeologico:
 ## Radiocarbonio
 
 ::: {.absolute top="0" left="95%"}
-::: sectionhead
-[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
 :::
 :::
 
@@ -190,8 +190,8 @@ Data la natura del record archeologico:
 ## Dati archeologici - Approcci aoristici
 
 ::: {.absolute top="0" left="95%"}
-::: sectionhead
-[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
 :::
 :::
 
@@ -214,8 +214,8 @@ Data la natura del record archeologico:
 ## Monte Carlo Simulation
 
 ::: {.absolute top="0" left="95%"}
-::: sectionhead
-[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
 :::
 :::
 
@@ -238,8 +238,8 @@ Data la natura del record archeologico:
 ## Raccolta dati
 
 ::: {.absolute top="0" left="95%"}
-::: sectionhead
-[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
 :::
 :::
 
@@ -266,6 +266,12 @@ Data la natura del record archeologico:
 ------------------------------------------------------------------------
 
 ## Elaborazione dei dati
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
 
 -   Database geospaziale in QGIS, R scripts
 -   Armonizzazione cronologica e selezione esclusivamente di evidenze di occupazione antica (insediamenti)
@@ -320,7 +326,7 @@ Data la natura del record archeologico:
 
 ------------------------------------------------------------------------
 
-## Confronto Regionale tra Samaria e Giuda
+## SPD - Confronto Regionale tra Samaria e Giuda
 
 ::: {.absolute top="0" left="95%"}
 ::: sectionhead
@@ -357,7 +363,7 @@ Deviazioni positive (statisticamente significative)
 
 ------------------------------------------------------------------------
 
-## Proxy archeo-demografici
+## Proxy archeo-demografici 
 
 ::: {.absolute top="0" left="95%"}
 ::: sectionhead
@@ -508,7 +514,7 @@ per il Levante Meridionale
 ::: {.fragment fragment-index=1}
  - Trend che sembra confermato dai proxy archeo-demografici
  - Curve e fluttuazioni demografiche molto simili
- - Se profonda differenza insediativa, le due curve sarebbero state opposte, o quantomeno differenti.
+ - Se profonda differenza insediativa, le due curve sarebbero state divergenti, o profondamente differenti
 :::
 
 :::
@@ -519,7 +525,7 @@ per il Levante Meridionale
 :::
 
 ::: {.fragment fragment-index=1}
-![](img/archaeodemographic_proxies.webp){.absolute right="3%" top="7%" width="45%"}
+![](img/archaeodemographic_proxies.webp){.absolute right="3%" top="7%" width="40%"}
 :::
 
 ------------------------------------------------------------------------
@@ -597,7 +603,6 @@ per il Levante Meridionale
 ::: {.columns}
 
 ::: {.column width="50%"}
--   Maggiore ispezione delle curve al radiocarbonio
 -   Integrazione di dati storici e testuali [@Novotny.Radner2018]
 -   Analisi olistica del paesaggio politico
 -   Pubblicazione del dataset e delle analisi nelle rispettive repository online
@@ -626,12 +631,12 @@ Alessio Palmisano ([alessio.palmisano@unito.it](mailto:alessio.palmisano@unito.i
 
 ![](img/qr_code.webp)
 <br>
-[Presentazione online al link](https://www.andreatitolo.com/slides/2023-12-13-archeofoss/archeofoss2023#/title-slide)
+Presentazione online al qrcode sopra o al seguente [link](https://www.andreatitolo.com/talks/2024-06-18-evoa/EVOA2024.html)
 
 <br>
 
- {{< ai zenodo >}} < https://zenodo.org/doi/10.5281/zenodo.10370486  >
+ {{< ai zenodo >}} < https://doi.org/10.5281/zenodo.12011486  >
 
- {{< bi github >}} [Slides Source Code](https://github.com/UnitoAssyrianGovernance/ArcheoFOSS2023) - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+ {{< bi github >}} [Slides Source Code](https://github.com/UnitoAssyrianGovernance/evoa-2024) - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 # Bibliografia
